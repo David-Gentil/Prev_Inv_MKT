@@ -48,3 +48,8 @@ Para entender melhor a relação entre as variáveis presentes nesses registros 
 
 ### OTIMIZAÇÃO DE HIIPERPARÂMETROS DO MODELO SELECIONADO
 ![image](https://github.com/user-attachments/assets/da417f70-5924-496e-8a4d-94e88db1d84d)
+
+---------------
+
+# CONCLUSÃO DO CÁLCULO DE PREDIÇÃO
+Como vimos, com esse modelo podemo simular vários cenários, auxiliando a melhor tomada de decisão sobre o investimento em marketing para o negócio em questão com ua precisão de até 98%
