@@ -52,4 +52,4 @@ Para entender melhor a relação entre as variáveis presentes nesses registros 
 ---------------
 
 # CONCLUSÃO DO CÁLCULO DE PREDIÇÃO
-Como vimos, com esse modelo podemo simular vários cenários, auxiliando a melhor tomada de decisão sobre o investimento em marketing para o negócio em questão com ua precisão de até 98%
+Como vimos, com esse modelo podemo simular vários cenários, auxiliando a melhor tomada de decisão sobre o investimento em marketing para o negócio em questão com uma precisão de até 98%
