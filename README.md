@@ -51,5 +51,13 @@ Para entender melhor a relação entre as variáveis presentes nesses registros 
 
 ---------------
 
+### PREDIÇÃO
+
+![MKT](https://github.com/user-attachments/assets/afb91b07-3d47-4372-ab06-86ea1fa94d71)
+
+![MKT2](https://github.com/user-attachments/assets/996ec41a-c6e1-43d0-8ccd-5c8ea50b8616)
+
+---------------
+
 # CONCLUSÃO DO CÁLCULO DE PREDIÇÃO
 Como vimos, com esse modelo podemo simular vários cenários, auxiliando a melhor tomada de decisão sobre o investimento em marketing para o negócio em questão com uma precisão de até 98%
