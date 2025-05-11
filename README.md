@@ -53,9 +53,8 @@ Para entender melhor a relação entre as variáveis presentes nesses registros 
 
 ### PREDIÇÃO
 
-![MKT](https://github.com/user-attachments/assets/afb91b07-3d47-4372-ab06-86ea1fa94d71)
-
-![MKT2](https://github.com/user-attachments/assets/996ec41a-c6e1-43d0-8ccd-5c8ea50b8616)
+![MKT](https://github.com/user-attachments/assets/915bb7bb-2e83-4a79-ab38-f1c75e4a86db)
+![MKT2](https://github.com/user-attachments/assets/1aa9792e-1187-4a63-966b-b517c9b5166e)
 
 ---------------
 
