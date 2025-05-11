@@ -7,6 +7,28 @@ Para entender melhor a relação entre as variáveis presentes nesses registros 
 
 ---------------
 
+## ANÁLISE EXPLORATÓRIA
+
+### Análise entre multivariáveis (Pair Plot)
+![image](https://github.com/user-attachments/assets/d99be220-1585-44cf-b855-c645d3981c22)
+
+---------------
+
+### Pair Plot das variáveis com maior relação
+![image](https://github.com/user-attachments/assets/f040766c-6ffb-40af-a10d-2654628f09b7)
+
+---------------
+
+### Heat Map
+![image](https://github.com/user-attachments/assets/fda0a50d-88c5-4f94-8110-d0ec6fe643fc)
+
+---------------
+
+### Histograma da variável "Sales"
+![image](https://github.com/user-attachments/assets/4f07d3d4-b121-472b-822b-4e251370c2ac)
+
+---------------
+
 ## TÉCNICAS DE MODELAGEM
 
 ### TÉCNICA 1. REGRESSÃO LINEAR
